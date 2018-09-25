@@ -26,7 +26,8 @@ return arr
 }
 
 
-{
-while (i < number)
-return arr
+
+while (i < number){
+  return arr
 }
+
