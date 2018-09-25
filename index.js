@@ -25,11 +25,5 @@ while (i < 8)
 return arr
 }
 
-var arr = []
-  var i = 0
-  do {arr.push("I love the Beatles!"); i++
-  }
-while (number < 15)
-  return arr
 
 
