@@ -22,7 +22,7 @@ function iLoveTheBeatles(number){
   do {arr.push("I love the Beatles!"); i++
 }
 while (i < 8) 
-if number < 15
+if (number < 15)
 return arr
 }
 
