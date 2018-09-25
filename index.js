@@ -30,6 +30,6 @@ function iLoveTheBeatles(number){
   var i = 0
   do {arr.push("I love the Beatles!"); i++
 }
-while (i < 15)
+while (i < 17)
 return arr
 }
