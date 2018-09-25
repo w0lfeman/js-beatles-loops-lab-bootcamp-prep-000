@@ -26,7 +26,7 @@ return arr
 }
 
 
-while (i < number)
+while (i < 15)
   return arr
 
 
