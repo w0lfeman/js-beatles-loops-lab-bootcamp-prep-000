@@ -27,6 +27,6 @@ return arr
 
 
 {
-while (i < 16)
+while (i < number)
 return arr
 }
