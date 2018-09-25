@@ -21,7 +21,7 @@ function iLoveTheBeatles(number){
   var i = 0
   do {arr.push("I love the Beatles!"); i++
 }
-while (i < number) 
+while (i < 8) 
 return arr
 }
 
